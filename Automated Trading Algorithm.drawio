@@ -1,14 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T11:59:26.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0QmfEd1WGcsz8kS5QFPw" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T12:09:30.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-RDLft-9OtS0wLPHY-sD" version="17.4.6" type="github">
   <diagram id="qh7loSCd7u4UXy6ttTwe" name="Page-1">
-    <mxGraphModel dx="1449" dy="1825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2229" dy="2162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z7HE6dS7BL2o71Uc9GN3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.474;entryY=-0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-1" target="XUEvAklmKHp6juRLJ8Wx-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="726.3846153846152" y="-965.076876126803" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="663" y="-1020" width="124" height="38" as="geometry" />
+          <mxGeometry x="665" y="-1043" width="124" height="38" as="geometry" />
         </mxCell>
         <mxCell id="z7HE6dS7BL2o71Uc9GN3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-3" target="XUEvAklmKHp6juRLJ8Wx-11">
           <mxGeometry relative="1" as="geometry" />
@@ -16,32 +18,51 @@
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-3" value="Input live trading&lt;br&gt;data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="-850" width="132" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="z7HE6dS7BL2o71Uc9GN3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.988;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-4" target="XUEvAklmKHp6juRLJ8Wx-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-4" target="XUEvAklmKHp6juRLJ8Wx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="-652" />
+              <mxPoint x="556" y="-652" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-4" value="Based on &lt;br&gt;common&amp;nbsp;factors affecting&lt;br&gt;&amp;nbsp;trends of price patterns, a bot is &lt;br&gt;built to make trading&lt;br&gt;decisions" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="621" y="-717" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XUEvAklmKHp6juRLJ8Wx-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="669" y="-937" width="120" height="60" as="geometry" />
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724.8461538461538" y="-822.1708984375" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XUEvAklmKHp6juRLJ8Wx-9" value="Input &lt;br&gt;historical data&lt;br&gt;into AI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="685" y="-930" width="84" height="46" as="geometry" />
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-8" value="Historical trade data is fed &lt;br&gt;into machine learning &lt;br&gt;algorithm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="632" y="-964" width="185" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="729" y="-719.4444274902344" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-10" value="AI reads and accesses previous trends and trading patterns" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="669" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z7HE6dS7BL2o71Uc9GN3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-11" target="XUEvAklmKHp6juRLJ8Wx-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="246" y="-619" />
+              <mxPoint x="246" y="-594" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-11" value="AI bot reads and accesses trading data for trends and patterns" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="188" y="-683" width="120" height="64" as="geometry" />
+          <mxGeometry x="181" y="-693" width="133" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="z7HE6dS7BL2o71Uc9GN3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-12" target="XUEvAklmKHp6juRLJ8Wx-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.8034292367788" y="-649.6923076923078" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-12" value="AI bot is fed into&lt;br&gt;API" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="404" y="-679" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="-679" width="129" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z7HE6dS7BL2o71Uc9GN3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-13">
           <mxGeometry relative="1" as="geometry">
@@ -59,11 +80,26 @@
             <mxPoint x="733.22216796875" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-14" target="z7HE6dS7BL2o71Uc9GN3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-14" value="Place trade" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="188" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XUEvAklmKHp6juRLJ8Wx-15" value="Don&#39;t place trade" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="404" y="-538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-12" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-14" value="Trade goes well(profit)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181.5" y="-286" width="129" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-16" value="Trade goes wrong (loss)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-380" width="139" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-19" value="Trade data is fed back to the &lt;br&gt;bot for the AI learn from it" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="731" y="-526" width="162" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
