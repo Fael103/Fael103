@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T11:55:45.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KPrAJlkio5--459ONbJn" version="17.4.6" type="github"><diagram id="qh7loSCd7u4UXy6ttTwe" name="Page-1">1Vjbcts2EP0aTp+c4V3Uoy27Tdp0xlNPJ+kjRK5IxCDAAUBLytcXAEHxAkpNZyI78YuBAywu5+wulvKiTX34jaOm+pMVQLzQLw5edO+FYRDHa/VPI0eLZGHSISXHRYf5A/CEv4Kd2KMtLkBYrIMkY0TiZgrmjFLI5QRDnLP9dNqOkWICNKiEyTE08JQjAs60T7iQVYdm4WrA3wMuq37nILU33qL8ueSspXY/L4x25q8brlG/lt1XVKhg+xEUPXjRhjMmu1Z92ADR5E5p+/XM6OncHKj8FoPPfz+83D6T+o/3Tfql/evj79mnw02Q2cPJY08IFIof22VcVqxkFJGHAb0zlwa9rK96w5yPjDUKDBT4BaQ8WrFRK5mCKlkTOwoHLD9r83eJ7f0zGrk/2JVN59h3qOTHzijO4h7Qdjf+uyBe9chgbXoT80fguAYJ3ILd3fWFz3JqIcFansMlIq3rIl6CvDBvfVJehRQwdRp+VHYcCJL4ZXoOZF27PM0b5FUNq/D/Ubtb9wWR1u70pA4sHRcYBNaa7Css4alB5v57lQamYto1gUs4XKbRvbY1SNOoM7FJ5Cbw+6jZDzEZhHGHVaN4jLIrcRU5XH2gTau48onWSUnNUYFp6YUpUWe523LVKnWrQBI5lKrob3RTkYIIAcJKjmo1uRm55GRs5Kv/pcAOH6DPrN9JEZXGp4pkyYIgUegKEodXEiR2BLlDQjlp6DPqaXeZ65CzutZDKao1YXQr9L8dyiXjQp9wt1MPyqKEcyOpeCu0DdtpGjnOwdAplT5U4Ru9nH4TmHYQLBbPs20xkeZ5M8/D82UnghwLzPTi8+CsWL1txesEZm/Su8EqWDlucHrhxm4QRP6V/CBz/OBnD7a0Lyl6lteRy3KwxHJ6LZLXZ7Of66oVFiqisCqpdB1okt98CqbG6W8/OFIp1uSUYA4Cf0VbM0E/0rp8EAPfiOCSqnauyDV6aer15rd2oMZFYcqUhqltDTHJnZfcG+0I2TDCtP6UUT1JSM6eYQZOC5zvoXCWzBV202m28LzF6bVKAd9RWKujChFkEh2iOrOiPAchQJikBy+YtcIkLZsNu0mnHDZKiGcLCv+VCopZRGWL9cRrRlTgFl+G8O7JOEv7QG4XWeoDh7sS/DDEB1k2JT7Nom8kPr4W8eEl4s1bvTNlRJek5qnr9tFNWj/Z+xL78UyU1fqto8Etr/tqzpXA1Hczjx+VcTZK4HzlVXejJnIoW/jeecWSKpinpmS1kJqSaKGkCq8WIm5t/UhQDgOzb/yB6KSVaP3m+TxxOLtn9BedU5ofijsn+pP+m/kK3Knu8IuWGRv9bhg9/As=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-29T11:59:26.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0QmfEd1WGcsz8kS5QFPw" version="17.4.6" type="github">
+  <diagram id="qh7loSCd7u4UXy6ttTwe" name="Page-1">
+    <mxGraphModel dx="1449" dy="1825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.474;entryY=-0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-1" target="XUEvAklmKHp6juRLJ8Wx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="663" y="-1020" width="124" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-3" target="XUEvAklmKHp6juRLJ8Wx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-3" value="Input live trading&lt;br&gt;data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="182" y="-850" width="132" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.988;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-4" target="XUEvAklmKHp6juRLJ8Wx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-4" value="Based on &lt;br&gt;common&amp;nbsp;factors affecting&lt;br&gt;&amp;nbsp;trends of price patterns, a bot is &lt;br&gt;built to make trading&lt;br&gt;decisions" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="621" y="-717" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="669" y="-937" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-9" value="Input &lt;br&gt;historical data&lt;br&gt;into AI" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="685" y="-930" width="84" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-10" value="AI reads and accesses previous trends and trading patterns" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="669" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-11" target="XUEvAklmKHp6juRLJ8Wx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-11" value="AI bot reads and accesses trading data for trends and patterns" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="188" y="-683" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-12" target="XUEvAklmKHp6juRLJ8Wx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-12" value="AI bot is fed into&lt;br&gt;API" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="404" y="-679" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="246" y="-392.33331298828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-13" target="XUEvAklmKHp6juRLJ8Wx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-13" value="Based &lt;br&gt;on trends and factors a trade is &lt;br&gt;made or not" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="169" y="-570" width="153" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="z7HE6dS7BL2o71Uc9GN3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUEvAklmKHp6juRLJ8Wx-14" target="XUEvAklmKHp6juRLJ8Wx-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="733.22216796875" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-14" value="Place trade" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="188" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XUEvAklmKHp6juRLJ8Wx-15" value="Don&#39;t place trade" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="404" y="-538" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
